@@ -27,4 +27,10 @@ This project simulates a banking/payment system where users can manage their car
 ---
 
 ## 📂 Project Structure
-    
+    src/
+┣ components/
+┃ ┗ CartUi/ # UI for displaying cards
+┃ ┗ Transfareoney/ # Money transfer section
+┣ App.tsx # Main component
+┣ main.tsx # Entry point
+┗ index.css # Styles
